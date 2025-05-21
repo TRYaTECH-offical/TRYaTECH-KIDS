@@ -1,0 +1,16 @@
+name: tryatech_kids
+description: TRYaTECH KIDS Flutter app
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.0.0
+  cloud_firestore: ^4.0.0
+  audioplayers: ^5.0.0
+
+flutter:
+  uses-material-design: true
