@@ -1,5 +1,5 @@
 name: tryatech_kids
-description: TRYaTECH KIDS Flutter app
+description: TRYaTECH KIDS Flutter app with Firestore and Audio
 version: 1.0.0+1
 
 environment:
